@@ -1,6 +1,6 @@
 # Examensprojekt
 
-Examensprojektet är den avslutande modulen på kursen Webbutvecklare. Projektets omfattning är 8 veckor (vecka 14-22). Studerande på kursen Webbutvecklare kan påbörja arbetet med projektet innan modulen startar.
+Examensprojektet är den avslutande modulen på kursen Webbutvecklare. Projektets omfattning är ca 8 veckor (vecka 14-22). Studerande på kursen Webbutvecklare kan påbörja arbetet med projektet innan modulen startar.
 
 Handledning av ditt arbete med examensprojektet sker inom modulens tidsramar.
 
@@ -86,7 +86,7 @@ Ditt examensprojektet kommer att framgå av slutgiltigt kursintyg.
 
 ### Att göra innan perioden startar - beskriv ditt förslag till examensarbete 
 
-*Vi vill att din beskrivning av projektet ska finnas tillgänlig i ett git repo senast 28 mars*. 
+**Vi vill att din beskrivning av projektet ska finnas tillgänlig i ett git repo senast 28 mars**. 
 
 Skapa ett Git repo för projektarbetet. 
 
@@ -100,7 +100,7 @@ I README.md anger du följande rubriker:
 
 #### Exempel på kravspecifikation - här för en tänkt Bloggplattform
 
-*Vi vill att en kravspecifikation utformas (godkänd av handledare) under första veckan - vecka 14*. 
+**Vi vill att en kravspecifikation utformas (godkänd av handledare) under första veckan - vecka 14**. 
 
 En kravspecifikation är ngt du ska ha som mål att arbeta med under projektet. Det innebär att du kanske inte hinner med alla punkter. Det kan oxå innebära att du omprioriterar vissa punkter.*      
 
