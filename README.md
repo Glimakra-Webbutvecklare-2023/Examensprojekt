@@ -91,7 +91,7 @@ Ditt examensprojektet kommer att framgå av slutgiltigt kursintyg.
 Skapa ett Git repo för projektarbetet. 
 
 I README.md anger du följande rubriker:
-- Översiktlig beskrivning: I korthet vad ska applikationen göra?
+- Översiktlig beskrivning: I korthet vad ska applikationen göra. Vem är beställaren (dig själv, en vän, ett företag)?
 - Tekniker och programspråk: Punktform vilka programspråk och applikationer ska användas
 - Samarbeten: Om ni ska göra detta i grupp eller tillsammans med ett företag skriv det här och hur ni har tänkt samarbeta
 - Kravspecifikation: I punktform skriv ner funktionalitet som ska finnas implementerad inom projektets tidsram (den här punkten kan behöva preciseras mer när projektet startats upp i samråd med lärare)
