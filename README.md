@@ -55,13 +55,14 @@ Presenterat projektet för handledare och skapat en första kravspecifikation
 ```
 
 
-### Redovisning vid halvtid 
+### Redovisning vid halvtid/trekvartstid 
 
 *preliminärt datum*
 
 När du arbetat med examensprojektet i ca 4 veckor redovisar du ditt projekt i form av ett pågående arbete. Här du delar du med dig av utmaningar och kan få feedback. Visa skisser, din applikation och ditt Git repo.  
 
 - Tisdag 29 april 12:40
+- Tisdag 13 maj 12:40
 
 ### Slutlig redovisning
 
